@@ -20,7 +20,7 @@ For end users, the latest Windows and macOS release version of Audacity is avail
 Help with using Audacity is available at https://audacityteam.org/help
 
 ## Developers
-Build instructions are available [here](https://github.com/audacity/audacity/blob/master/BUILDING.md).
+Build instructions are available [here](https://github.com/audacity/audacity/blob/master/BUILDING.md)
 
 Additional development resources may be found in the [wiki](https://github.com/audacity/audacity/wiki).
 
